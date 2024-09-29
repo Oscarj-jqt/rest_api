@@ -8,7 +8,6 @@ Système de liaison entre l'interface client le serveur et la base de donnée.
 
  npm install express --save
 
-
  npm install --save-dev nodemon pour que le serveur s'actualise tout seul avec nodemon
 
  On va utiliser 5 types de requêtes : 
