@@ -4,7 +4,7 @@ Système de liaison entre l'interface client le serveur et la base de donnée.
  Le client envoie des requêtes (GET, POST, DELETE...) au système REST API qui les fait parvenir à la base de donnée
  La bdd envoie des informations à l'API et celui-ci les envoie au cilient en format json.
 
- npm init -y
+ npm init -y.
 
  npm install express --save
 
